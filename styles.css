@@ -185,5 +185,12 @@ img{
   color: rgb(255, 255, 255);
 }
 
-
+input{
+  width: 15vw;
+  height: 1.5vw;
+}
+textarea{
+  width: 30vw;
+  height: 10vw;
+}
 
